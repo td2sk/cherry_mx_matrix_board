@@ -15,3 +15,10 @@ matrix
 ## LICENSE
 
 CC-BY-4.0
+
+
+### external project
+
+|path|original|LICENSE|
+|-|-|-|
+|external/kbd|https://github.com/foostan/kbd|MIT|
